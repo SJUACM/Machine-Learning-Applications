@@ -11,7 +11,7 @@ An overview of various projects involving real life applications of Machine Lear
 
   - Download the file to save your changes
 
-  - You can also upload .ipynb files in Google Colab here
+  - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
   
 ## To Run the Python files (.py)
 
