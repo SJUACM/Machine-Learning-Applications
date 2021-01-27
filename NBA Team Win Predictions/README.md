@@ -10,7 +10,7 @@ seasons before that which you want to predict as well.
 Data is scraped from https://www.basketball-reference.com/
 
 
-## **Example Terminal Output:** 
+## **Example Usage** 
 
 ![image](https://user-images.githubusercontent.com/43652410/105950403-55e04f00-603c-11eb-96ee-bb2cbcd8f73a.png)
 
