@@ -23,7 +23,7 @@ Data is scraped from https://www.basketball-reference.com/
 
 ## **2021 NBA Win Projections**
 
-**Team Name, Current Wins, Predicted Wins (Out of 82 Games)**
+**Team Name, Current Wins, Projected Wins (Out of 82 Games)**
 
   - Atlanta Hawks, 8.0, 45 
 
