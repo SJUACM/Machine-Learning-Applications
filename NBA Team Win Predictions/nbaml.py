@@ -4,6 +4,7 @@ from itertools import cycle
 import argparse
 import io
 import math
+import os
 
 import pandas as pd
 from pandas import DataFrame
@@ -267,7 +268,7 @@ def applyModel(trainSet, testSet):
 
     errSum = 0
 
-    print("\n\nTeam Name, Year, Actual Wins, Predicted Wins")
+    print("\n\nTeam Name, Year, Actual Wins, Predicted Wins\n")
 
     for x in range(len(testData)):
         print(teamWins[x][0], teamWins[x][1], teamWins[x][2], math.ceil(predictions[x]), 'Error: (' + str(abs(teamWins[x][2] - math.ceil(predictions[x]))) + ')\n') 
@@ -315,13 +316,22 @@ def findCorrelations():
 
 
     
-saveTo = 'C:\\Users\\faiza\\OneDrive\\Desktop\\NBAData\\' #Change this to the location in which you want to save your files
+saveTo = 'NBAData\\'
 
+if os.path.isdir('NBAData') == False:
+
+    # Creating the NBA Data Folder
+    nbaDataDir = "NBAData"
+    parentDir = os.getcwd()
+    nbaDataPath = os.path.join(parentDir, nbaDataDir) 
+    os.mkdir(nbaDataPath) 
+
+    
 #Generate Training Set
-year = int(input("Enter starting season: "))
+year = int(input("\nEnter starting season for the training set: "))
 seasons = int(input("Enter the number of seasons to gather data from: "))
 
-print('Gathering training data from the ' + str(year) + " - " + str(year - seasons + 1) + " NBA seasons\n")
+print('\nExtracting training data from the ' + str(year) + " - " + str(year - seasons + 1) + " NBA seasons\n")
 
 trainingSet = 'NBAMLTrainingSet' + str(year) + str(seasons) + "Y"
 
@@ -331,10 +341,10 @@ generateDataset(year, seasons, trainingSet)
 
 
 #Generate Testing Set
-testYear = int(input("\nEnter starting season for your testing set: "))
-testSeasons = int(input("Enter how many seasons you want to test: "))
+testYear = int(input("\nEnter starting season you want to predict wins for: "))
+testSeasons = int(input("Enter how many seasons you want to predict the wins for: "))
 
-print('Gathering testing data from the ' + str(testYear) + " - " + str(testYear - testSeasons + 1) + " NBA seasons\n")
+print('\nExtracting testing data from the ' + str(testYear) + " - " + str(testYear - testSeasons + 1) + " NBA seasons\n")
 
 testingSet = "NBAMLTestingSet" + str(testYear) + str(testSeasons) + "Y"
 
