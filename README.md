@@ -3,13 +3,15 @@ An overview of various projects involving real life applications of Machine Lear
 
 ## To Launch all Python Notebook files (.ipynb):
   
-  - Click on the icon [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  - Click on the icon [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Machine-Learning-Applications/HEAD)
   
   - Choose a project and open a file
 
   - You can now look through edit the code!
 
   - Download the file to save your changes
+  
+  - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
   
 ## To Run the Python files (.py)
 
