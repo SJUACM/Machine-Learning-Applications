@@ -10,12 +10,7 @@ The program also goes through your Spotify listening history and finds other art
 
 # How to Run the Code
 
-  - If you do not have **git** installed, download it [here](https://git-scm.com/downloads)
-  - If you do not have **pip** installed, download it [here](https://pip.pypa.io/en/stable/installing/)
-  
-  - Clone the repository `git clone https://github.com/faizancodes/Spotify-ML-Music-Recommendations.git`
-  
-  - Navigate to the downloaded folder `cd Spotify-ML-Music-Recommendations`
+  - Navigate to this folder `cd "Spotify Music Recommendations"`
   
   - Download all the dependencies `pip install -r requirements.txt` 
   
