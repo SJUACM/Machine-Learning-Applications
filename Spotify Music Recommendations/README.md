@@ -1,4 +1,4 @@
-# Spotify-ML-Music-Recommendations
+# Spotify Music Recommendations
 Music recommendations based on your favorite artists, songs, and listening history powered by machine learning!
 
 # How it Works 
