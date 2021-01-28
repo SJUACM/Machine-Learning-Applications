@@ -28,5 +28,6 @@ An overview of various projects involving real life applications of Machine Lear
   - [Ted Talk: The Wonderful and Terrifying Implications of Computers that Can Learn](https://www.youtube.com/watch?v=t4kyRyKyOpo)
   - [Ted Talk: The Jobs We'll Lose to Machines -- and the Ones We Won't](https://www.youtube.com/watch?v=gWmRkYsLzB4)
   - [Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+  - [OpenAI GPT-3](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
 
   - **Datasets for ML Applications can be found on [Kaggle](https://www.kaggle.com/datasets) and [Google Dataset Search](https://datasetsearch.research.google.com/)**
