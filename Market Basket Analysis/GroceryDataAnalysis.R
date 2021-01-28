@@ -21,11 +21,6 @@ df2 <- as.data.frame(lapply(df, unlist))
 #Order the dataframe by column 
 df2[order(df2[1,])]
 
-#Make the certain columns null to avoid redundant / insignificant processing,
-#since we are checking if the shot was made or not 
-#df2$TeamName = NULL
-#df2$FinalsWin = NULL
-
 
 #Convert the data to be a set of transactions
 transactional_data <- as(df2, "transactions")
