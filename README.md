@@ -13,7 +13,7 @@ An overview of various projects involving real life applications of Machine Lear
   
   - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
   
-## To Run the Python files (.py)
+## To Run the Python files (.py):
 
   - Download the code `git clone https://github.com/SJUSATA/Machine-Learning-Applications.git`
 
