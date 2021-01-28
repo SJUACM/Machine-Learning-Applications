@@ -31,6 +31,6 @@ An overview of various projects involving real life applications of Machine Lear
   
   - OpenAI:
       - [GPT-3 Language Generator Model](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)
-      - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+      - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/), [DALL·E Video Demo](https://www.youtube.com/watch?v=GyXTDUYL_NY)
 
   - **Datasets for ML Applications can be found on [Kaggle](https://www.kaggle.com/datasets) and [Google Dataset Search](https://datasetsearch.research.google.com/)**
