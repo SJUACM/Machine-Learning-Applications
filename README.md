@@ -29,7 +29,10 @@ An overview of various projects involving real life applications of Machine Lear
   - [Ted Talk: The Jobs We'll Lose to Machines -- and the Ones We Won't](https://www.youtube.com/watch?v=gWmRkYsLzB4)
   - [Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
   
-  - OpenAI:
+  - **Google DeepMind:**
+      - [AlphaGo Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+    
+  - **OpenAI:**
       - [GPT-3 Language Generator Model](https://www.technologyreview.com/2020/07/20/1005454/openai-machine-learning-language-generator-gpt-3-nlp/)  |  [GPT-3 Video Demo](https://www.youtube.com/watch?v=8V20HkoiNtc)
       - [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)  |  [DALL·E Video Demo](https://www.youtube.com/watch?v=GyXTDUYL_NY)
 
