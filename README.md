@@ -25,6 +25,7 @@ An overview of various projects involving real life applications of Machine Lear
 
   - [MIT Free Intro to Machine Learning Course](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
   - [MIT AI & ML Lecture](https://www.youtube.com/watch?v=t4K6lney7Zw)
+  - [A Tour of Machine Learning Algorithms](https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0a)
   - [Ted Talk: The Wonderful and Terrifying Implications of Computers that Can Learn](https://www.youtube.com/watch?v=t4kyRyKyOpo)
   - [Ted Talk: The Jobs We'll Lose to Machines -- and the Ones We Won't](https://www.youtube.com/watch?v=gWmRkYsLzB4)
   - [Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
