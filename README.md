@@ -35,7 +35,7 @@ An overview of various projects involving real life applications of Machine Lear
       - [AlphaGo: The World Champion in Go](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
       - [AlphaGo Documentary](https://www.youtube.com/watch?v=WXuK6gekU1Y)
       - [AlphaGo Zero: Starting from Scratch](https://deepmind.com/blog/article/alphago-zero-starting-scratch)
-      - [MuZero: Mastering Go, chess, shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)
+      - [MuZero: Mastering Go, Chess, Shogi and Atari without rules](https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules)
       - [AlphaFold: Using AI for Scientific Discovery](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery)
     
   - **OpenAI:**
