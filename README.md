@@ -30,6 +30,7 @@ An overview of various projects involving real life applications of Machine Lear
   - [Ted Talk: The Jobs We'll Lose to Machines -- and the Ones We Won't](https://www.youtube.com/watch?v=gWmRkYsLzB4)
   - [Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
   - [Machine Learning for Cyber Security](https://builtin.com/artificial-intelligence/machine-learning-cybersecurity)
+  - [Art by AI](https://www.artaigallery.com/)
   
   - **DeepMind:**
       - [AlphaGo: The World Champion in Go](https://deepmind.com/research/case-studies/alphago-the-story-so-far)
