@@ -28,6 +28,7 @@ An overview of various projects involving real life applications of Machine Lear
   - [A Tour of Machine Learning Algorithms](https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0a)
   - [Ted Talk: The Wonderful and Terrifying Implications of Computers that Can Learn](https://www.youtube.com/watch?v=t4kyRyKyOpo)
   - [Ted Talk: The Jobs We'll Lose to Machines -- and the Ones We Won't](https://www.youtube.com/watch?v=gWmRkYsLzB4)
+  - [Ted Talk: Dont Fear Intelligent Machines. Work with Them](https://www.youtube.com/watch?v=NP8xt8o4_5Q)
   - [Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
   - [How to teach an AI to Play Games](https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a)
   - [Machine Learning for Cyber Security](https://builtin.com/artificial-intelligence/machine-learning-cybersecurity)
