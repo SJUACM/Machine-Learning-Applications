@@ -1,6 +1,8 @@
 # Machine-Learning-Applications
 An overview of various projects involving real life applications of Machine Learning!
 
+View this repository in VS Code by clicking [here](https://github1s.com/SJUSATA/Machine-Learning-Applications)
+
 ## To Launch all Python Notebook files (.ipynb):
   
   - Click on the icon [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Machine-Learning-Applications/HEAD)
