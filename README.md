@@ -5,15 +5,19 @@ View this repository in VS Code by clicking [here](https://github1s.com/SJUSATA/
 
 ## To Launch all Python Notebook files (.ipynb):
   
-  - Click on the icon [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SJUSATA/Machine-Learning-Applications/HEAD)
+  - Click [here](https://nbviewer.jupyter.org/github/SJUSATA/Machine-Learning-Applications/tree/main/)
   
-  - Choose a project and open a file
-
-  - You can now look through edit the code!
-
-  - Download the file to save your changes
+  - Choose a project and open a file 
   
-  - You can also upload .ipynb files in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+  - You can now look through the code!
+
+  - To interact with and run the code, click on the 'Execute on Binder' button on the top right of the screen. (This will take a considerable amount of time to load)
+
+  - Once loaded, you can download the file to save your changes
+  
+  - You can also download the .ipynb files in this repository and upload them in Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+
+  - Alternatively, if you want to run .ipynb files on your local machine, you can download jupyter notebook by running `pip install notebook` and then running `jupyter notebook`. Read more [here](https://jupyter.org/install)
   
 ## To Run the Python files (.py):
 
