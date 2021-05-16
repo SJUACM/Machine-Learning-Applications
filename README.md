@@ -25,6 +25,7 @@ View this repository in VS Code by clicking [here](https://github1s.com/SJUSATA/
 
 ## Additional Resources
 
+  - [Complete Overview of ML Topics](https://www.geeksforgeeks.org/machine-learning/)
   - [MIT Free Intro to Machine Learning Course](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
   - [MIT AI & ML Lecture](https://www.youtube.com/watch?v=t4K6lney7Zw)
   - [A Tour of Machine Learning Algorithms](https://towardsdatascience.com/a-tour-of-machine-learning-algorithms-466b8bf75c0a)
